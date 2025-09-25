@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/FPS_Void_20150918_Clase/Content/HUD/HealthWB.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/FPS_Void_20150918_Clase/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/FPS_Void_20150918_Clase/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/FPS_Void_20150918_Clase/Content/FirstPersonBP/Blueprints/DeadHUD.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/FPS_Void_20150918_Clase/Content/FirstPersonBP/Blueprints/frostDamage.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/Content/HUD/HealthWB.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/Content/HUD/HUDHealth.uasset",
+				"C:/Users/Alumno/Desktop/FPS_Void_20150918_Clase/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset"
+			]
+		}
+	]
+}
